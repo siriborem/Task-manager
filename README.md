@@ -6,11 +6,15 @@ For my application, I built a task manager application that allows the user to e
 
 Allows the user with the following features:
 
-      - Edit Post: you can edit the task name, date, priority, and note.
-      - Delete Post: deletes a selected task.
-      - Mark a task complete/incomplete : sets a task to is complete/incomplete and it will then display in Completed/incomplete tasks page.
-      - View/edit task note: task note can be viewed from a pop out dialog and can also be edited and updated. 
-      - Update priority
+1. Edit Post: you can edit the task name, date, priority, and note.
+
+2. Delete Post: deletes a selected task.
+
+3. Mark a task complete/incomplete : sets a task to is complete/incomplete and it will then display in Completed/incomplete tasks page.
+
+4. View/edit task note: task note can be viewed from a pop out dialog and can also be edited and updated. 
+
+5. Update priority
 
 After cloning run `npm install @angular/cli` then run ng serve for a dev server. Navigate to `http://localhost:4200/`
 
